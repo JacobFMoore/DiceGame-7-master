@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AssTwo</string>
+    <string name="Roll">Lancer les dés pour jouer..</string>
+    <string name="save">Sauvegarder</string>
+    <string name="load">Charge</string>
+    <string name="Language">Francais</string>
+    <string name="Exit">Sortie</string>
+    <string name="Begin">Commencer</string>
+    <string name="Top_10_Highscores">Top 10 des meilleurs scores</string>
+</resources>

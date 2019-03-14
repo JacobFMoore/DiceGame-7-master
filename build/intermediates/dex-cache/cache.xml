@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_ae07725b1df4e1d062643d00d8fc3e073f578c34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_fd2535855fe5f6a8c99443129412c9bdef86e372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\apps\android-sdk.Aug17\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a173d6cf78d6c61d7f9ae0b7563a21aba497886f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_990fe58a31fe428e49fb2cc4ea6a70e41a6bf820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5065b88bf3dc709fe3418a26c374b4d0600bceca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_6b7862a78f6288c869940b7130db07e8d29b242c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_78937d9a3e23ee57c2de6b36679253ad2327a5bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_94d90a3014fd1a3e9ac3fe7b9b7345de3bd07a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_952d3580fe7d8f783e19e83d0f790e5a1d5f3656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b156e6eceab97cc9dcb3de8e986b779982a054ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2b9c20ea20b1ff3364b45213eb7108843c893d27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_31432ffedf13b5960a61ec93c5a353ac33900d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_681c28dbc1ffeb9d9f6908656e1e797e661faeb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_311d7cad5697afb4a999075543d343c8ac117cbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_09be7b697c2f493e2110dd025889e349a34dffa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_eedb0b14d22b52dc3fbb0159f61e79fc26fc5350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_33d250412fdecb2f715646cf445ee3a37991bfb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_0ef140c1b2f0519929fbc999494fd61b913c2b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_80491d396a6faf101420a6e3d8436badaf3de6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_e2dabf8746f8f9ee86a318a80d44050f01500c2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_865d8461b9a16d6264de55fc6caa9ead6251ff14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_cff8ffa7246386d0a6fb516fbadbe771466c06af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6b181e7fb2ad37a62d3965f1b0441175650fe29b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f6d4a6f3b038835b2b35d550690468c1e5f6b630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_7ac75e4fc46c975da9b166f40d67a9d563bad826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_dda83cbe27367d94f9cde8e628b65dd0879e13ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_cb8687a0bbb4cb4411ac4ac202a6dc12fcd796ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_880025010ec4e6318ce82fb3ff2d01d2f33b0164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="M:\Innovations Coursework 2\DiceGame-7cc10a93bd6a3c9c65d6cf457a4e4391fb4669fb\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f2e39557a426770d0b27beeb342b5c337d9361c7.jar" />
+    </item>
+
+</items>

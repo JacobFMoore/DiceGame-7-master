@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="uk.ac.ljmu.asstwo.FirstPage">
+
+    <Button
+        android:id="@+id/Begin"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="@string/Begin"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="31dp"
+        android:layout_above="@+id/HighScore"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/ExitB"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="@string/Exit"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_above="@+id/Language"
+        android:layout_alignStart="@+id/HighScore"
+        android:layout_marginBottom="22dp" />
+
+    <Button
+        android:id="@+id/HighScore"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="@string/Top_10_Highscores"
+        android:textAlignment="center"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="23dp"
+        android:layout_above="@+id/ExitB"
+        android:layout_alignStart="@+id/Begin" />
+
+    <EditText
+        android:id="@+id/PlayerOne"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="19dp"
+        android:ems="10"
+        android:hint="Player 1"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/Versus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="VS"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/PlayerOne"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/PlayerTwo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="26dp"
+        android:ems="10"
+        android:hint="Player 2"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/Versus"
+        android:layout_alignStart="@+id/PlayerOne" />
+
+    <TextView
+        android:id="@+id/Language"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Language"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/Versus"
+        android:layout_marginBottom="23dp" />
+
+</RelativeLayout>

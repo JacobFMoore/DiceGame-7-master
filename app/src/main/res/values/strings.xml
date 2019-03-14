@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AssTwo</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="Language">English</string>
+    <string name="Exit">Exit</string>
+    <string name="Begin">Begin</string>
+    <string name="Top_10_Highscores">Top 10 Highscores</string>
+
+</resources>
